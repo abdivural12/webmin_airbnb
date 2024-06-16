@@ -1,0 +1,11 @@
+playwright
+bs4
+requests
+pandas
+streamlit
+geopy
+scikit-learn
+folium
+streamlit-folium
+Pillow
+
