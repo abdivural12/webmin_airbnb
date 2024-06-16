@@ -2,6 +2,7 @@
 <p align="center">
     <img src="airbnb.png" alt="airbnb" width="180" height="180">
 </p>
+
 # 1. Contexte et objectifs du projet
 <p>Dans le secteur de l'hébergement touristique, la tarification est cruciale pour la compétitivité et la rentabilité. Sur des plateformes telles qu'Airbnb, comprendre les facteurs influençant les prix est essentiel tant pour les hôtes que pour les voyageurs. Cette étude examine plusieurs éléments, tels que la localisation, les caractéristiques des logements et les évaluations, qui impactent les tarifs des hébergements Airbnb. En fournissant des insights précieux, notre objectif est de guider les décisions des acteurs du marché.</p>
 <p>En comprenant mieux ces dynamiques, nous espérons offrir une perspective éclairante sur la manière dont les prix sont fixés sur Airbnb. Cela permettra aux acteurs du marché de prendre des décisions plus informées pour maximiser leur satisfaction et leurs bénéfices.</p>
